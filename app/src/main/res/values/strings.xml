@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas9-GITS</string>
+    <string name="go_to_home">Go To HOME!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">hello home fragment</string>
+    <string name="hello_search_fragment">hello search fragment</string>
+    <string name="hello_account_fragment">hello Account fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="input_password_here">Input Password Here</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
